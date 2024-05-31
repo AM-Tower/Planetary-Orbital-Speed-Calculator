@@ -1,2 +1,5 @@
-# Planetary-Orbital-Speed-Calculator-
-Planetary Orbital Speed Calculator is used to calculate all the Planets in our Solar System.
+# Planetary Orbital Speed Calculator
+
+The Planetary Orbital Speed Calculator calculates all the Planets in our Solar System.
+
+Live Demo: [https://AM-Tower.com/documents/#orbitalspeeds](https://am-tower.com/documents/#orbitalspeeds)
